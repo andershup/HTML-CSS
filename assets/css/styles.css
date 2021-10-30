@@ -3,11 +3,17 @@ body {
   font-size: 14px;
   font-weight: 300;
   font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
+  /* background-image: url("../images/fog-tower.jpg"); */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+
+
 }
 
 .warning {
   position: absolute;
-  top: 50px;
+  top: 10vh;
   color: white;
   font-size: larger;
 }
@@ -88,7 +94,7 @@ hr {
 }
 
 .page-header {
-  background-color: #B2AFAB;
+  /* background-color: #B2AFAB; */
   background-position: center center;
   background-size: cover;
   min-height: 100vh;
